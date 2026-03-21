@@ -12,9 +12,14 @@ In this project, we used Python in Google Colab as our coding language. To compl
   * share_of_trump_truth_social_posts_about_tariffs.png
 
 * SCRIPTS
-  * Data Analysis.ipynb
-  * Data Visualizations.ipynb
+  * Data_Visualizations.ipynb
  
 * LICENSE
 * README.md
    
+## Section 3: Instructions for Reproducibility
+
+1. Download DATA.zip and unzip the file to obtain the .tsv file.
+2. Load files into Data_Visualizations.ipynb and run the notebook
+3. Interpret visualizations to better understand the dataset
+4. Interpret T-Test results
