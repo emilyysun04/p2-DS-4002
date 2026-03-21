@@ -5,6 +5,7 @@ In this project, we used Python in Google Colab as our coding language. To compl
 
 ## Section 2: Map of Documentation
 * DATA.zip
+* Data Appendix.pdf
 * OUTPUT
   * average_sp500_return_tariff_vs_notariff.png
   * daily_sp500_returns.png
